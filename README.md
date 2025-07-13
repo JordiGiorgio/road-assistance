@@ -1,2 +1,2 @@
 # survey-web-app
-A mob app to help drivers fix their issues on the road
+An online survey to evaluate the need for car drivers to have their issues fixed on the road
